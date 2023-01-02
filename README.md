@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&text=Welcome&color=auto)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaryeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
