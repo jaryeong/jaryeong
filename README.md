@@ -1,5 +1,3 @@
-#jaryeong Kim
-
 ## Hi there 👋
 
 <!--
