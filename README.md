@@ -1,6 +1,6 @@
 jaryeong Kim
 
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **jaryeong/jaryeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
