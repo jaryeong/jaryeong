@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Css-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
