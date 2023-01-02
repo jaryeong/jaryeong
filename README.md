@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&text=Welcome&color=auto)
-![jaryeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
